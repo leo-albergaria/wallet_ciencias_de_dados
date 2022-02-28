@@ -1,9 +1,6 @@
-
-
-
-<img src="imagem" align="left" height="150px" width="150px">
-<h1>  🎲 Título </h1>
-<p> Um Breve relato </p>
+<img src="https://user-images.githubusercontent.com/63436406/156063088-1dd1d4f1-ba12-49a9-942a-454b46633a89.png" align="left" height="150px" width="150px">
+<h1>  🎲 Ciência de Dados </h1>
+<p> Iniciaremos alguns exemplos de manipulação de dados visando a programação em Python </p>
 <br>
 
 ---
